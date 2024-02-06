@@ -1,0 +1,1 @@
+A simple LibGDX game done with this guide: https://libgdx.com/wiki/start/a-simple-game
