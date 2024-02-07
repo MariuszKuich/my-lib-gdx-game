@@ -2,7 +2,6 @@ package pl.mariuszk.game;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import pl.mariuszk.game.MyGdxGame;
 
 public class DesktopLauncher {
 
